@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSASFload2023", "SSASFload2023\SSASFload2023.dwproj", "{B8F9981E-6CDD-4528-840B-42701DD794A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F9981E-6CDD-4528-840B-42701DD794A3}.Development|Default.ActiveCfg = Development
+		{B8F9981E-6CDD-4528-840B-42701DD794A3}.Development|Default.Build.0 = Development
+		{B8F9981E-6CDD-4528-840B-42701DD794A3}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50443B6E-1251-4D41-B46F-05272A292746}
+	EndGlobalSection
+EndGlobal
